@@ -1,2 +1,2 @@
 console.log("hello")
-console.log("first push")
+console.log("on github")
